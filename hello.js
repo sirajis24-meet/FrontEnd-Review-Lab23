@@ -1,4 +1,4 @@
-function changeBackgroundColor(color) {
+function changeBackgroundColor() {
 
 	 if(document.body.style.backgroundColor == "grey"){
 	 	console.log("changed to green")
